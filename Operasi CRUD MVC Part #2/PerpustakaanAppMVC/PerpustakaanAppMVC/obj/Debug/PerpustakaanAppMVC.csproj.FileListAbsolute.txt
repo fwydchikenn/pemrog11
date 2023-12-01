@@ -1,0 +1,36 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmEntryMahasiswa.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmMahasiswa.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\10.ADO.NET MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\04 2021-2022\01 Ganjil\Pemrograman Lanjut\02 Lab\11 Pertemuan 11\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\11\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\11\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\11\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\11\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csprojResolveAssemblyReference.cache
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\11\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\11\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmEntryMahasiswa.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\11\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmMahasiswa.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\11\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.Cache
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\11\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\11\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.dll
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.xml
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csprojAssemblyReference.cache
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmEntryMahasiswa.resources
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmMahasiswa.resources
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CopyComplete
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+E:\4809 rekiiiiii\pert10\Operasi CRUD MVC Part #2\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
